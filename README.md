@@ -1,4 +1,4 @@
-# Hi, I'm Emded-ojisan 👋
+# Hi, I'm Embeded-ojisan 👋
 
 🦀 **Embedded Software Engineer | Rust Enthusiast**
 
